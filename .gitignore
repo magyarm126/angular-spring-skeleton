@@ -1,3 +1,7 @@
+#Java
+/target
+
+
 # Package Files #
 *.jar
 *.war
